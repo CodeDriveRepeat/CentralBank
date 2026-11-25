@@ -4,7 +4,7 @@
     "@types/supertest": "^6.0.3",
     "@types/testing-library__react": "^10.0.1",
     "ajv": "^8.20.0",
-    "eslint": "^10.0.0",
+    "eslint": "^10.15.0",
     "supertest": "^7.1.4",
     "vitest": "^5.0.3"
   },
