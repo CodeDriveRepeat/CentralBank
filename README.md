@@ -214,3 +214,5 @@ Security-sensitive changes should include appropriate unit, fuzz, invariant, int
 ## License
 
 CentralBank is licensed under the MIT License. See [`LICENSE`](LICENSE) for details.
+
+[View this repository on GitDiagram](https://gitdiagram.com/CodeDriveRepeat/CentralBank)
